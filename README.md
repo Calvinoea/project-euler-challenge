@@ -1,5 +1,7 @@
 # project-euler-challenge
 
+A challenge that will expand computer science and math knowledge – all while giving programming practice.
+
 The Rules of the #ProjectEuler100 Challenge
 
 Tweet out a photo of yourself giving a thumbs-up and announcing that you are committing to the #ProjectEuler100 challenge.
